@@ -11,4 +11,4 @@ this is a good example of [my code](https://gist.github.com/gkrampah/5ad7ccd13a6
 this is an example [notebook](https://github.com/gkrampah/technical-discussion/blob/main/Untitled0.ipynb)
 
 ## Image
-[screenshot](https://github.com/gkrampah/technical-discussion/issues/1
+![Screenshot from 2023-04-20 16-01-56](https://user-images.githubusercontent.com/65491585/233391451-5e6d5ff9-58e4-4281-9749-6509810687bd.png)
