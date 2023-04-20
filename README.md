@@ -8,4 +8,4 @@ this is a good example of [my code](https://gist.github.com/gkrampah/5ad7ccd13a6
 
 
 ## colab example 
-this is an example [notebook](https://gist.github.com/gkrampah/5ad7ccd13a62272aa463c2d1e79dbb00)
+this is an example [notebook](https://github.com/gkrampah/technical-discussion/blob/main/Untitled0.ipynb)
